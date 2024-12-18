@@ -16,17 +16,27 @@ proxies:
   server: 219.135.227.209
   tfo: false
   type: ss
-- name: 15|US_speednode_0040
-  password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a
+- name: 15|US_speednode_0025
+  network: ws
+  password: tg-fq521free
   port: 443
-  server: us01.ssr.ee
-  skip-cert-verify: false
-  sni: us01.ssr.ee
-  type: trojan
-- name: 15|US_speednode_0045
-  password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a
-  port: 443
-  server: 167.234.221.194
+  server: 216.24.57.30
   skip-cert-verify: true
-  sni: us01.ssr.ee
+  sni: torjan.xn--xhq44j.eu.org
   type: trojan
+  ws-opts:
+    headers:
+      Host: torjan.xn--xhq44j.eu.org
+    path: /
+- name: 15|US_speednode_0026
+  network: ws
+  password: tg-fq521free
+  port: 443
+  server: 198.62.62.67
+  skip-cert-verify: true
+  sni: torjan.xn--xhq44j.eu.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: torjan.xn--xhq44j.eu.org
+    path: /
