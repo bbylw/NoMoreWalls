@@ -115,5 +115,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR8576O5Zu9NHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJzbmkiOiAiIn0=
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?allowInsecure=0#15%7CNL_speednode_0013
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://AEPsBJ.mcsslk.xyz/10a3396b523d9b0e73fe7b9a954e43c9
+https://G3FcqM.mcsslk.xyz/7bec93ca0a23923f0aad2a4dc673b7dd
 hhysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?security=tls&insecure=1&sni=lsyd1.lansecs.top#MCI-IR--@V2rayAlpha-16
