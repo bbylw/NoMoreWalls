@@ -1,26 +1,10 @@
 proxies:
-- name: 8|🎈66@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+- name: 8|v2rayRoom
+  password: DBUklcvOyH
   port: 443
-  server: vpn-sg-002.fastervpn.world
+  server: 45.81.19.251
   skip-cert-verify: true
-  sni: vpn-sg-002.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 8|🎈67@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: vpn-us-004.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-us-004.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 8|🎈68@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: vpn-vn-001.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-vn-001.fastervpn.world
+  sni: web.bale.ai
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
