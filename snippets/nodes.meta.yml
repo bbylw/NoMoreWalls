@@ -46,13 +46,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|2🎡@oneclickvpnkeys
-  password: 1e06c388-d31c-420e-916a-94a990648e34
-  port: 5443
-  server: hyst-1.hysteria.ltd
-  sni: hyst-1.hysteria.ltd
-  tls: false
-  type: hysteria2
 - name: 8|@FreakConfig
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
@@ -95,14 +88,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🎡62@v2ray_configs_pools
-  obfs: salamander
-  obfs-password: pqvmx29fokvh8ubb
-  password: TELEgRAM-ID-conf0088
-  port: 2053
-  server: cuetara.name.cuetara.name
-  tls: false
-  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -123,7 +108,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@filembad
+- name: 8|@vmesskhodam
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: elknam6l7izf3z71
@@ -131,16 +116,6 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: elknam6l7izf3z71
-  port: 52000
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
   tls: false
   type: hysteria2
 - name: '8|@Napsternetvirani #2'
@@ -173,15 +148,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🎡95@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 8zzng75tz4tf82pj
-  password: eltgrek81o6w5cd4
-  port: 8443
-  server: musicclips.videolinks.ru
-  sni: musicclips.videolinks.ru
-  tls: false
-  type: hysteria2
 - name: 8|️️@ATLAS_V2VPN️️447️
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -190,6 +156,16 @@ proxies:
   server: social.klipp.su
   skip-cert-verify: false
   sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: 8|@filembad
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: p3HaP2Lht6
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: '8|@Alpha_v2rayIP #3'
