@@ -1,4 +1,14 @@
 proxies:
+- name: 8|🇩🇪Telegram=V2RayyNGvpn⚡🇩🇪
+  obfs: salamander
+  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
+  password: HChdbj6duc
+  port: 443
+  server: 91.107.178.22
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 15|DE_speednode_0009
