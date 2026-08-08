@@ -621,7 +621,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 8|🇫🇮FI-🚀@VPNine1
+  name: 8|🇫🇮FI-@VPNine1
   obfs: salamander
   obfs-password: 93lc6r07zfx4crct
   password: kjq3gpn1xom1ted9
@@ -633,7 +633,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|🇫🇮FI-🚀@VPNine1 #1'
+  name: 8|🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: sdx1qdzqgp8lcajn
   password: kjq3gpn1xom1ted9
@@ -645,11 +645,21 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|🇫🇮FI-🚀@VPNine1 #2'
+  name: '8|🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
   obfs-password: sdx1qdzqgp8lcajn
   password: kjq3gpn1xom1ted9
   port: 52012
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #2'
+  obfs: salamander
+  obfs-password: p61ckuavkc1s2hfl
+  password: kjq3gpn1xom1ted9
+  port: 52031
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -675,7 +685,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #1'
+- name: 8|@V2ray_confiig
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -683,16 +693,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #1'
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: 130.49.161.70
-  skip-cert-verify: false
-  sni: hy2.aspidnet.xyzAMIRVPN
   tls: false
   type: hysteria2
 - name: 8|@meliproxyy
