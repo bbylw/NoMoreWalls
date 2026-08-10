@@ -454,20 +454,6 @@ proxies:
   sni: it-one.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 8|️57@SHAHSERVER1
-  password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
-  port: 443
-  server: 138.124.68.188
-  sni: usa1.spectrumproxy.shop
-  tls: false
-  type: hysteria2
-- name: 8|26@SHAHSERVER1
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 76.164.202.213
-  sni: mercedes-grape.yyuyy.com
-  tls: false
-  type: hysteria2
 - name: 8|✨89@oneclickvpnkeys
   password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
   port: 2056
@@ -484,12 +470,11 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 8|🧬36@SHAHSERVER1
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 51.44.213.137
-  skip-cert-verify: true
-  sni: vpn-fr-002.fastervpn.world
+- name: 8|53@oneclickvpnkeys
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 93.114.194.122
+  sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -502,7 +487,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|8@oneclickvpnkeys
+- name: 8|🪢8@oneclickvpnkeys
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
   server: 95.164.123.231
@@ -520,7 +505,7 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|🤴‼️TELEGRAM@SHAHSERVER1🪽
+- name: 8|@v2ray_phoenix
   obfs: salamander
   obfs-password: 83v9muumcyikh5ch
   password: TelegramVPNjey
@@ -559,7 +544,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|30@oneclickvpnkeys
+- name: 8|🪢30@oneclickvpnkeys
   password: gf1
   port: 443
   server: 173.212.201.85
@@ -591,7 +576,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🇫🇮@FreakConfig
+- name: 8|@FreakConfig
   obfs: salamander
   obfs-password: p61ckuavkc1s2hfl
   password: kjq3gpn1xom1ted9
